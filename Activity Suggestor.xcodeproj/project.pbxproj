@@ -11,6 +11,7 @@
 		98CA839129AD6010005DCB17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98CA839029AD6010005DCB17 /* ContentView.swift */; };
 		98CA839329AD6012005DCB17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98CA839229AD6012005DCB17 /* Assets.xcassets */; };
 		98CA839629AD6012005DCB17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98CA839529AD6012005DCB17 /* Preview Assets.xcassets */; };
+		98CA839D29AD629A005DCB17 /* ActivityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98CA839C29AD6299005DCB17 /* ActivityController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		98CA839029AD6010005DCB17 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		98CA839229AD6012005DCB17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98CA839529AD6012005DCB17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		98CA839C29AD6299005DCB17 /* ActivityController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				98CA838E29AD6010005DCB17 /* Activity_SuggestorApp.swift */,
 				98CA839029AD6010005DCB17 /* ContentView.swift */,
+				98CA839C29AD6299005DCB17 /* ActivityController.swift */,
 				98CA839229AD6012005DCB17 /* Assets.xcassets */,
 				98CA839429AD6012005DCB17 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98CA839129AD6010005DCB17 /* ContentView.swift in Sources */,
+				98CA839D29AD629A005DCB17 /* ActivityController.swift in Sources */,
 				98CA838F29AD6010005DCB17 /* Activity_SuggestorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
